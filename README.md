@@ -1,5 +1,4 @@
-### Flo 🌍
----
+# Flo 🌍
 student, developer & activist
 
 <!--
