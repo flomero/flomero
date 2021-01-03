@@ -1,5 +1,8 @@
 # Flo 🌍
 student, developer & activist
+- 🔭 I’m currently working on [Volery-Frontend](https://github.com/karlbeecken/volery-frontend)
+- 😄 Pronouns: he/him
+
 
 <!--
 <details>
