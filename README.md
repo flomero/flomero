@@ -3,7 +3,7 @@ student, developer & activist
 - 🌱 I’m currently learning Vue
 - 😄 Pronouns: he/him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flomrero&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flomero&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
