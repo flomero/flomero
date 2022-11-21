@@ -1,6 +1,6 @@
 # Flo 🌍
 student, developer & activist
-- 🌱 I’m currently learning Vue
+- 🔭 I’m currently working on an inventory management app with Sveltekit/Pocketbase
 - 😄 Pronouns: he/him
 
 
