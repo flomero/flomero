@@ -1,8 +1,4 @@
-# Flo 🌍
-student, developer & activist
-- 🔭 I’m currently working on an inventory management app with Sveltekit/Pocketbase
-- 😄 Pronouns: he/him
-
+Hi there 🙌🏼
 
 
 
