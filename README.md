@@ -1,7 +1,9 @@
-# Hi there 🙌🏼
+### Hi there, I'm Flo 🙌🏼
 
-
-
+- 🔭 I’m currently working on [Minishell](https://github.com/jojomo96/minishell)
+- 🌱 I’m currently learning C
+- 💬 Ask me about 42 school, especially 42 Heilbronn
+- 😄 Pronouns: he/him
 
 
 
