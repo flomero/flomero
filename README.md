@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning C
 - 💬 Ask me about 42 school, especially 42 Heilbronn
 - 😄 Pronouns: he/him
+- ⚙️ My configs (for MacOS): [dotfiles](https://github.com/flomero/dotfiles-mac)
 
 #### Languages
 
