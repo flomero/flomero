@@ -1,9 +1,11 @@
 ### Hi there, I'm Flo 🙌🏼
-
+<!--
 - 🔭 I’m currently working on [miniRT](https://github.com/flomero/miniRT)
-- 🌱 I’m currently learning C
-- 💬 Ask me about 42 school, especially 42 Heilbronn
+-->
+- 🌱 I’m currently learning C & Go
 - 😄 Pronouns: he/him
+- 💬 Ask me about 42 school, especially 42 Heilbronn
+- 🌠 Favourite 42 project:  [miniRT](https://github.com/flomero/miniRT)
 - ⚙️ My configs (for MacOS): [dotfiles](https://github.com/flomero/dotfiles-mac)
 
 #### Languages
