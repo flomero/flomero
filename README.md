@@ -2,7 +2,7 @@
 <!--
 - 🔭 I’m currently working on [miniRT](https://github.com/flomero/miniRT)
 -->
-- 🌱 I’m currently learning C & Go
+- 🌱 I’m currently learning C & C++
 - 😄 Pronouns: he/him
 - 💬 Ask me about 42 school, especially 42 Heilbronn
 - 🌠 Favourite 42 project:  [miniRT](https://github.com/flomero/miniRT)
